@@ -1,13 +1,13 @@
 # DesordrePy
 
-##input.txt
+## input.txt
 ```
 Selon une étude de l’ Université de Cambridge, l’ ordre des lettres dans un mot n’a pas d’ importance
 la seule chose importante est que la première et la dernière lettre soient à la bonne place
 Le reste peut être dans un désordre total et vous pouvez toujours lire sans problème
 C’ est parce que le cerveau humain ne lit pas chaque lettre mais le mot comme un tout
 ```
-##output.txt
+## output.txt
 
 ```
 Seoln une étdue de l’ Uitnsvieré de Cbdagimer, l’ orrde des ltreets dnas un mot n’a pas d’ ircaptmoen
